@@ -24,3 +24,4 @@ drf-yasg = "~=1.16.1"
 
 pinax-notifications = "*"
 google-api-python-client = "*"
+django-photologue = "*"
